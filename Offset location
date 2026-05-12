@@ -1,9 +1,0 @@
-This is the right offset location 
-for zombie fire 3d 
-public class HeroController : RealTimeScale // TypeDefIndex: 594
-	// RVA: 0xE21990 Offset: 0xE1D990 VA: 0xE21990
-	public void Hit(float dmg, bool isRight) { }
-
-public class Profile // TypeDefIndex: 988
-// RVA: 0xEB0414 Offset: 0xEAC414 VA: 0xEB0414
-	public static int get_Gold() { }
